@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Fxd4.js starter kit installer",
     "bin": {
-      "create-fxd4": "./bin/cli.js"
+      "create-fxd4": "bin/cli.js"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
